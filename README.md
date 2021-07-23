@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SakuragiKing
+- 👀 I’m interested in embedded systems
+- 🌱 I’m currently learning electrical and electronics engineering
+- 💞️ I’m looking to collaborate on any projects involving electronics, mcu or coding
+- 📫 Drop your invitations at terra34luna@gmail.com
